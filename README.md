@@ -1,13 +1,6 @@
 # static
-## Udacity-CDEND-Project3
+ Udacity-CDEND-Project3
 
-### AWS Steps
-### Install Jenkins On Ubuntu
-### Set Up Jenkins
-### Install required plugins
-### Set up GitHub
-### Set up AWS credentials in Jenkins
-### Set up S3 Bucket
-### Set up pipeline for AWS
-### Add another stage in pipeline
+This project demonstrates a CI CD pipeline for a S3 based website
+The Jenkinsfile has the build setup with linting and curl verification
 
